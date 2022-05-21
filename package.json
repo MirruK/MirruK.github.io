@@ -1,7 +1,18 @@
 {
+	"author" : "Mirek Kudinoff",
+	
+	"description": "This is where I learned how a package.json should look :)",
+
+	"keywords": ["freecodecamp", "learning", "yup"],
+
+	"license": "MIT",
+
+	"version": "1.0",
+	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment" : "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
